@@ -1,0 +1,1 @@
+Start-Process msiexec.exe -ArgumentList "/i `"$env:TEMP\chrome.msi`"" -Wait
