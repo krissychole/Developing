@@ -1,0 +1,1 @@
+Clear-Host; Remove-Variable results; [Microsoft.PowerShell.PSConsoleReadLine]::ClearHistory()
